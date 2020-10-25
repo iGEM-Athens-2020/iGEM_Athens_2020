@@ -1,6 +1,8 @@
 These are the simulation files which were used to solve the model proposed by the iGEM Athens 2020 team. This model describes the mechanical interactions and movement of the bacteria flavobacterium johnsoniae. You can find detailed information about it in the page: https://2020.igem.org/Team:Athens/Model.
 The simulation is built to run in MATLAB (.m files). It was composed in MATLAB2020b for MacOS, but earlier 64bit versions should work fine.
 
+[![View Janulevicius Model - Edited by iGEM Athens 2020 on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/81778-janulevicius-model-edited-by-igem-athens-2020)
+
 CONTENTS
 ===============
 
