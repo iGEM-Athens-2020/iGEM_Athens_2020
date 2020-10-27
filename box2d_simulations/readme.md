@@ -1,4 +1,4 @@
-# Simulations for the gliding motility mechanism that Flavobacteria have #
+# Gliding motility mechanism simulation for Flavobacteria #
 This code was developed in Java using the Box2D plugin for Processing Environment <br>
 
 Each folder contains one simulation so in total there are 4 simulations : <br>
